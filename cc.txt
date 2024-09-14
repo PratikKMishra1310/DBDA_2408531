@@ -1,0 +1,3 @@
+Cloud Computing is one of the technologies used to optmise the local server resources.
+It allows for cost management and scalability for both the user and provider.
+Cloud Computing has found one of its applcation in IOT.
